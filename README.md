@@ -6,7 +6,7 @@
 
 ・📡 Télécharger les fichiers . <br>
 ・🗂️ Les placers dans un fichier . <br>
-・✏️ Lancer le FivePD.bat . <br>
+・✏️ Lancer le FivePD.exe . <br>
 <img src="https://cdn.discordapp.com/attachments/1044865317949673502/1045417554811826296/image.png">
 
 <h1> Auteur </h1>
